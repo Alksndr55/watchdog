@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.map
+backups/
+.deps/
+_log_extract*/
+_ut*_extract*/
+__pycache__/

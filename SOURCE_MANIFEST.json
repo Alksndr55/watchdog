@@ -1,0 +1,87 @@
+{
+  "product": "ATtiny13A watchdog",
+  "version": "v1.00",
+  "date": "2026-10-29",
+  "fuses": {
+    "LFUSE": "0x73",
+    "HFUSE": "0xFB"
+  },
+  "files": {
+    ".gitattributes": {
+      "bytes": 9,
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+    },
+    ".gitignore": {
+      "bytes": 83,
+      "sha256": "fa99b7bfd03e4026cdffacb813fffcacba8485786a1c3535050746500a93bfc9"
+    },
+    "build.ps1": {
+      "bytes": 2673,
+      "sha256": "d1e5803c48ba239d75332924d52c3489dc5e19391cd1047ab9179ce86ea61166"
+    },
+    "datasheet.pdf": {
+      "bytes": 3497252,
+      "sha256": "fc8798fc63184c80e3399baac96556ff3155c387dd83d7d3e2f85c75d48a036e"
+    },
+    "LICENSE.md": {
+      "bytes": 20850,
+      "sha256": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd"
+    },
+    "main.c": {
+      "bytes": 5840,
+      "sha256": "0c0f57a739c4bf24668ffb39984ebda6414ff91f85c58bf115416285744566f8"
+    },
+    "Makefile": {
+      "bytes": 1611,
+      "sha256": "1ad33182e94adce28b3231c7e0393782d620210f68f25d41c2010e7498a7d2c1"
+    },
+    "README.md": {
+      "bytes": 24973,
+      "sha256": "e2f64572f327021de27fe20e251c744094f09557446c3e666e103266249aba8f"
+    },
+    "tests/include/avr/interrupt.h": {
+      "bytes": 137,
+      "sha256": "4dc3bc43c08a1a4cdd078d6e4796edd891db446dc99fae527f2f94b0142f6b46"
+    },
+    "tests/include/avr/io.h": {
+      "bytes": 1096,
+      "sha256": "f10cf62078112d6b6d31fcbd92b1f21f2f4780f26c39657698aa68d8a583041e"
+    },
+    "tests/include/avr/sleep.h": {
+      "bytes": 222,
+      "sha256": "2536b1349e31ee7f3c53d8965b46fdd228925a935132c75300a4fc8ace57e70f"
+    },
+    "tests/include/avr/wdt.h": {
+      "bytes": 90,
+      "sha256": "81c334792a70365ca5796b59fd061dba7d50bc143f032dfa8d652794a89de62c"
+    },
+    "tests/README.md": {
+      "bytes": 1643,
+      "sha256": "239533be8a19cbf370e6c167b8e9f8934bdb59c6dce5ad35fba2ff740e753667"
+    },
+    "tests/run.ps1": {
+      "bytes": 1068,
+      "sha256": "61bacc678dab1951e3b1550f26acee57ac3119f24ba70db61d40970770cbd44e"
+    },
+    "tests/test_firmware.cpp": {
+      "bytes": 5773,
+      "sha256": "8134fb6089879ff363ebabf8962412366ea5aedc4434742d0a6078baf79ded03"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 764,
+      "sha256": "53459b5364f87010888aba9c31dea05b05f918218b5be7cbb8d7356fdc090618"
+    },
+    "verification/software_checks.json": {
+      "bytes": 653,
+      "sha256": "c02723125be4484f4ba61636f63216670ba3bdc6591ff2ea1c4956add104232f"
+    },
+    "VERSION": {
+      "bytes": 7,
+      "sha256": "80aabb827ab4678bd7b1a0a681191b1899eefe630accdcb1c265f70f73132ed4"
+    },
+    "watchdog.hex": {
+      "bytes": 1523,
+      "sha256": "f3309241f54871913d068f74021697b4a4a3982eab620c1d9da5364b210b788b"
+    }
+  }
+}
